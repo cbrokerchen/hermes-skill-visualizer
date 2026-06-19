@@ -42,7 +42,7 @@ git clone https://github.com/cbrokerchen/hermes-skill-visualizer.git ~/.hermes/s
 
 - Hermes Agent（已安裝）
 - OpenAI API Key
-- GPT-Image 2 模型（`gpt-image-2-medium`）
+- GPT-Image 2 模型（`gpt-image-2-low`）
 
 ## 檔案結構
 
